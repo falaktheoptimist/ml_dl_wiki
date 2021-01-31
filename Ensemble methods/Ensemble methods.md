@@ -14,7 +14,9 @@ The main categorization of ensemble methods is
 
 Very broadly, bagging aims at an ensemble model with less variance than its components whereas boosting and stacking try to produce strong models less biased than their components (even if variance can also be reduced).
 
-![bagboost](https://github.com/InFoCusp/ml_dl_wiki/src/img/bagboost.png)
+![bagboost](https://raw.githubusercontent.com/InFoCusp/ml_dl_wiki/main/src/img/bagboost.png)
+
+Different types of weak learners combination [1]
 
 ### References
 
