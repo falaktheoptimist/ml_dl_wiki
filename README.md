@@ -14,7 +14,7 @@ A wiki page of ML/ DL topics with <10 minutes of reading time. Intended as a qui
 * Decision tree
 * Random forest
 * [Ensemble methods](https://github.com/InFoCusp/ml_dl_wiki/blob/main/Ensemble%20methods/Ensemble%20methods.md)
-  * Bagging
+  * [Bagging](https://github.com/InFoCusp/ml_dl_wiki/blob/main/Ensemble%20methods/Bagging.md)
   * Boosting
     * Adaboost
     * XGBoost
