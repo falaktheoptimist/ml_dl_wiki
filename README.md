@@ -13,10 +13,12 @@ A wiki page of ML/ DL topics with <10 minutes of reading time. Intended as a qui
 * Adam
 * Decision tree
 * Random forest
-* Bagging
-* Boosting
-* Adaboost
-* XGBoost
+* [Ensemble methods](https://github.com/InFoCusp/ml_dl_wiki/blob/main/Ensemble%20methods/Ensemble%20methods.md)
+  * Bagging
+  * Boosting
+    * Adaboost
+    * XGBoost
+  * Stacking
 * SVM
 * Kernel functions
 
